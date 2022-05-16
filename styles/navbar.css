@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+.active{
+    color:red!important;
+}
+
+.navbar-brand{
+    font-family: 'Acme', sans-serif;
+    font-size:1.95em;
+    font-weight: bolder;
+    color: rgb(77, 161, 51) !important;
+}
+
+.nav-link{
+    font-size:1.25em;
+    font-weight: bold;
+}
+
+.nav-link:hover{
+    color:red !important;
+}
+
+.navbar{
+    min-height:8vh;
+    box-shadow:0px 0px 25px black;
+}
+
+.email, .linkedIn{
+    position: relative;
+}
+.email-tooltip, .linkedIn-tooltip{
+    position: absolute;
+    background-color:black;
+    color:white;
+    visibility: hidden;
+    padding:12px;
+    border-radius:20px;
+}
+
+#email:hover .email-tooltip{
+    visibility: visible!important;
+}
+
+#linkedIn:hover .linkedIn-tooltip{
+    visibility: visible!important;
+}
+
+
+@media (min-width:992px) {
+    .nav-link{
+        text-align: left;
+    }
+    .email-tooltip{
+        right:2vw;
+    }
+    .linkedIn-tooltip{
+        right:2vw;
+    }
+}
+
+@media only screen and (max-width:991px) {
+    .nav-link{
+        text-align: center;
+    }
+    .email-tooltip-md{
+        right:2vw;
+        bottom:8vh;
+    }
+    .linkedIn-tooltip-md{
+        right:2vw;
+        bottom:1vh;
+    }
+}
+
+@media (max-width:649px){
+    .nav-link{
+        text-align: left;
+    }
+    .email-tooltip-sm{
+        right:2.5vw;
+        bottom:9vh;
+        font-size:0.9em;
+    }
+    .linkedIn-tooltip-sm{
+        right:7vw;
+        bottom:2vh;
+        font-size:0.9em;
+    }
+}

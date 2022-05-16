@@ -1,0 +1,15 @@
+.projects{
+   margin: 5vh 5vw;
+   border:1px solid black;
+   padding: 3vw;
+   border-radius:20px;
+   box-shadow: 0 0 20px grey;
+}
+
+.projects h5{
+    margin:3vh 0vw;
+}
+
+.projects h6{
+    margin:2vh 0vw;
+}

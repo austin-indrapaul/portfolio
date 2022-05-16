@@ -1,0 +1,30 @@
+#footer-content{
+    color:white;
+    text-align: center;
+    padding: 2vw;
+}
+
+#footer-content p{
+    margin:0.5vh 2vw;
+}
+.social{
+    margin:2vh 2vw;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+.social a{
+    margin:2vh 2vw;
+    text-decoration: none;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+small{
+    word-spacing: 0.4em;
+    font-family: 'Acme', sans-serif;
+    font-size:0.9em;
+}
+
+p#ending{
+    margin-top:4vh;
+}
