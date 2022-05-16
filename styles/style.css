@@ -1,0 +1,64 @@
+*{
+    font-family: 'Libre Baskerville','Helvetica','Cairo';
+}
+
+body{
+    padding-bottom: 35vh;
+    position: relative;
+    min-height: 100vh;
+}
+
+/*Navigation*/
+#navigation{
+    position:sticky;
+    top:0px;
+    width:100%;
+}
+
+/*Header*/
+#header{
+    margin: 0px;
+    padding: 20px;
+    background-image:linear-gradient(#ff512f,#dd2476);
+    color:whitesmoke;
+    width:100%;
+    min-height:25vh;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+/*Main*/
+main{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+}
+#about{
+    margin: 5vh 5vw;
+}
+#experience{
+    margin: 5vh 5vw;
+}
+#skills{
+    margin: 5vh 5vw;
+}
+#projects{
+    margin: 5vh 5vw;
+}
+
+@media only screen and (max-width:991px) {
+h2{
+    text-align:center;
+}
+}
+
+footer{
+    position: absolute;
+    width: 100%;
+    height:30vh;
+    background-color:black;
+    bottom:0;
+}
