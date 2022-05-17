@@ -58,5 +58,6 @@ footer{
     margin-top: 10vh;
     padding: 4vh 2vw;
     width: 100%;
+    min-height: 30vh;
     background-color:black;
 }
