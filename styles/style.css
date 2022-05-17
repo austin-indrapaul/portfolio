@@ -3,9 +3,7 @@
 }
 
 body{
-    padding-bottom: 35vh;
-    position: relative;
-    min-height: 100vh;
+    box-sizing: border-box;
 }
 
 /*Navigation*/
@@ -50,15 +48,14 @@ main{
 }
 
 @media only screen and (max-width:991px) {
-h2{
-    text-align:center;
-}
+    h2{
+        text-align:center;
+    }
 }
 
 footer{
-    position: absolute;
+    margin-top: 10vh;
+    padding: 4vh 2vw;
     width: 100%;
-    height:30vh;
     background-color:black;
-    bottom:0;
 }

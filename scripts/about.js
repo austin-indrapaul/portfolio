@@ -87,9 +87,9 @@ function About() {
       <ul>
         <li>Meritorious reward for completing .NET training in Accenture as a top scorer.</li>
         <li>
-        Sparkling star award of the month award, from Accenture.
+        Sparkling star of the month award, from Accenture.
         </li>
-        <li>Anna university rank holder in B.E 1st Semester.</li>
+        <li>Anna university rank holder / College Topper in B.E 1st Semester.</li>
       </ul>
       <br />
       </div>
@@ -98,15 +98,16 @@ function About() {
           display: "flex",
           "flex-direction": "row",
           "justify-content": "center",
+          "flex-wrap":"wrap"
         }}
         id="downloads"
       >
-        <a className="btn btn-primary btn-lg me-3" href="./resources/Austin Indrapaul - CV.pdf" target="_blank" download>
-        Resume &nbsp;&nbsp;<i class="bi bi-file-arrow-down-fill h4 align-middle"></i> 
+        <a className="btn btn-primary btn-lg m-3" href="./resources/Austin Indrapaul - CV.pdf" target="_blank" download="Austin Indrapaul - Resume">
+        Download Resume &nbsp;&nbsp;<i class="bi bi-file-arrow-down-fill h4 align-middle"></i> 
         </a>
-        {/* <a className="btn btn-success me-3" href="./scripts/about.js" download>
-        Awards & Certificates &nbsp;&nbsp;<i class="bi bi-archive-fill h4 align-middle"></i>
-        </a> */}
+        <a className="btn btn-success btn-lg m-3" href="./resources/Austin Indrapaul - Certificates.zip" download="Austin Indrapaul - Certificates">
+        Download Awards & Certificates.zip &nbsp;&nbsp;<i class="bi bi-archive-fill h4 align-middle"></i>
+        </a>
       </div>
     </div>
   );

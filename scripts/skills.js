@@ -1,13 +1,13 @@
 function Skills() {
     return (
       <div>
-        <h2 style={{"text-align":"center"}}>Skills</h2>
+        <h2 style={{"text-align":"center", "text-decoration":"underline"}}>Skills</h2>
         {/* <hr /> */}
         <div>
           <table class="table">
             <tr>
               <td>Languages</td>
-              <td>C#, Java, Python</td>
+              <td>Java, C#, Python</td>
             </tr>
             <tr>
               <td>Frameworks</td>
@@ -23,7 +23,7 @@ function Skills() {
             </tr>
             <tr>
               <td>Tools</td>
-              <td>Sitecore CMS, Jira, Git</td>
+              <td>Git, Jira, Sitecore CMS</td>
             </tr>
             <tr>
               <td>Other skills</td>

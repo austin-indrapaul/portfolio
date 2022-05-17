@@ -24,7 +24,7 @@ function Footer() {
       <p id="ending">
         <small>
           &copy; Belongs to Austin Indrapaul : HTML5, CSS3, Bootstrap,
-          JavaScript, jQuery and ReactJs technologies were used to build this
+          JavaScript, jQuery, ReactJs and Git technologies were used to build this
           website.
         </small>
       </p>
