@@ -1,18 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 
-#header{
-    margin: 0px;
-    padding: 20px;
-    background-image:linear-gradient(#ff512f,#dd2476);
-    color:whitesmoke;
-    width:100%;
-    min-height:25vh;
-
-    display:flex;
-    align-items:center;
-    justify-content:center;
-}
-
 #intro, #description{
     font-size:2em;
     font-weight: bolder;
