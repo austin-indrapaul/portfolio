@@ -14,18 +14,7 @@ body{
 }
 
 /*Header*/
-#header{
-    margin: 0px;
-    padding: 20px;
-    background-image:linear-gradient(#ff512f,#dd2476);
-    color:whitesmoke;
-    width:100%;
-    min-height:25vh;
 
-    display:flex;
-    align-items:center;
-    justify-content:center;
-}
 
 /*Main*/
 main{
@@ -53,9 +42,3 @@ main{
     }
 }
 
-footer{
-    margin-top: 10vh;
-    padding: 4vh 2vw;
-    width: 100%;
-    background-color:black;
-}
