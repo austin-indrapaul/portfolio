@@ -14,6 +14,10 @@ body{
     width:100%;
 }
 
+h2{
+    scroll-margin-top: 50vh;
+}
+
 /* Header */
 #header{
     margin: 0px;
