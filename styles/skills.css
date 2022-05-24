@@ -2,3 +2,6 @@ td {
     border-spacing: 20vw;
     padding: 2vh 10vw;
 }
+#skills {
+  scroll-margin-top: 25vh;
+}
