@@ -18,3 +18,15 @@
         width:100%;
     }
 }
+
+#summary{
+  scroll-margin-top: 25vh;
+}
+
+#education{
+  scroll-margin-top: 25vh;
+}
+
+#awards{
+  scroll-margin-top: 25vh;
+}
