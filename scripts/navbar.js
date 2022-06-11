@@ -129,3 +129,34 @@ $(".nav-link").click(function () {
 $("#navigation").mouseleave(function () {
   $(".nav-link").removeClass("active");
 });
+
+
+$("a[class=\"nav-link\"], a[class=\"nav-link dropdown-item\"], .navbar-brand").click(function () {
+  let target = $("button.navbar-toggler")
+  let value =  $("button.navbar-toggler").attr("aria-expanded");
+  if(value){
+    target.addClass("collapsed");
+    target.attr("aria-expanded","false");
+    $("#navbarSupportedContent").removeClass("show");
+  }
+});
+
+// $("a[class=\"nav-link dropdown-item\"]").click(function () {
+//   let target = $("button.navbar-toggler")
+//   let value =  $("button.navbar-toggler").attr("aria-expanded");
+//   if(value){
+//     target.addClass("collapsed");
+//     target.attr("aria-expanded","false");
+//     $("#navbarSupportedContent").removeClass("show");
+//   }
+// });
+
+// $(".navbar-brand").click(function () {
+//   let target = $("button.navbar-toggler")
+//   let value =  $("button.navbar-toggler").attr("aria-expanded");
+//   if(value){
+//     target.addClass("collapsed");
+//     target.attr("aria-expanded","false");
+//     $("#navbarSupportedContent").removeClass("show");
+//   }
+// });

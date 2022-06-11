@@ -29,7 +29,7 @@ function CallWriter() {
   function call2() {
     Writer("Software Developer", 75, "description");
   }
-  setTimeout(call2, 1700);
+  setTimeout(call2, 2000);
 }
 
 CallWriter();

@@ -11,7 +11,7 @@ function Skills() {
             </tr>
             <tr>
               <td>Frameworks</td>
-              <td>ASP .NET, ASP .NET MVC, Entity Framework</td>
+              <td>JSP, ASP.NET, ASP .NET MVC, Entity Framework</td>
             </tr>
             <tr>
               <td>Web Technologies</td>
@@ -27,7 +27,7 @@ function Skills() {
             </tr>
             <tr>
               <td>Other skills</td>
-              <td>Core Java, Data science with python</td>
+              <td>Data science with python</td>
             </tr>
           </table>
         </div>
