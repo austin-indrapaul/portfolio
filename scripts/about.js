@@ -26,9 +26,7 @@ function About() {
     <div>
       <h2>About</h2>
       <hr />
-      I'm trained in various technologies which includes Core java, ASP .NET,
-      and Front end development. Looking forward to work as a Full Stack
-      Developer and provide 360° value to my organisation.
+      I'm trained in various technologies which includes Java, Front end development , and .NET. Looking forward to work as a Full Stack Developer and provide 360° value to my organisation.
       <br />
       <br />
       <div id="summary">
