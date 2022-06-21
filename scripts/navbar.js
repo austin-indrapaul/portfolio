@@ -2,7 +2,7 @@ function NavBar() {
   return (
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container-fluid">
-        <a class="navbar-brand me-lg-4" href="#portfolio">
+        <a class="navbar-brand me-lg-4" href="">
           <i class="bi bi-journal-text"></i> My Portfolio
         </a>
         <button
