@@ -36,7 +36,7 @@ function About() {
         <strong>Professional summary</strong>
       </h5>
       <ul>
-        <li>I have 1.5 years of industrial experience.</li>
+        <li>I have overall years experience of 1.6 years.</li>
         <li>
           Working as an Associate Software Developer (ASE) in Accenture from
           December 2020 to till date.
