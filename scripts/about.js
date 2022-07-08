@@ -36,14 +36,13 @@ function About() {
         <strong>Professional summary</strong>
       </h5>
       <ul>
-        <li>I have overall years experience of 1.6 years.</li>
+        <li>I have overall years experience of 1.7 years.</li>
         <li>
           Working as an Associate Software Developer (ASE) in Accenture from
           December 2020 to till date.
         </li>
         <li>
-          Trained in various technologies which includes .NET, Java, and
-          Front-end technologies.
+          Trained in various technologies which includes Java, Front end development, and .NET.
         </li>
         <li>
           Have good experience in delivering projects in Agile Methodology.
