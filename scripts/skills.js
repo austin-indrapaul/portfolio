@@ -11,7 +11,7 @@ function Skills() {
             </tr>
             <tr>
               <td>Frameworks</td>
-              <td>JSP, ASP.NET, ASP .NET MVC, Entity Framework</td>
+              <td>JSP, Spring, Spring Boot, Hibernate</td>
             </tr>
             <tr>
               <td>Web Technologies</td>
@@ -19,7 +19,7 @@ function Skills() {
             </tr>
             <tr>
               <td>Database</td>
-              <td>MS SQL Server</td>
+              <td>H2, SQLite, MS SQL Server</td>
             </tr>
             <tr>
               <td>Tools</td>
