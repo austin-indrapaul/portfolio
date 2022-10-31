@@ -4,6 +4,21 @@ let education_details = [
   {"degree":"S.S.L.C - Class 10 (TN Board)","school":"Hussain Memorial Matric. Hr. Sec. School - Chennai.","class":"Distinction", "percentage":98},
 ]
 
+var experience = calculate_experience();
+
+function calculate_experience(){
+  var total_months = getMonthDifference(new Date('2020-12-14'), new Date())
+  return Math.round((total_months/12)*10)/10
+}
+
+function getMonthDifference(startDate, endDate) {
+  return (
+    endDate.getMonth() -
+    startDate.getMonth() +
+    12 * (endDate.getFullYear() - startDate.getFullYear())
+  );
+}
+
 
 function Education(props){
   return(
@@ -36,7 +51,7 @@ function About() {
         <strong>Professional summary</strong>
       </h5>
       <ul>
-        <li>I have overall years experience of 1.8 years.</li>
+        <li>I have overall years experience of {experience} years.</li>
         <li>
           Working as an Associate Software Developer / ASE in Accenture from
           December 2020 to till date.
