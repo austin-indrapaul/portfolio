@@ -97,7 +97,7 @@ function About() {
         <strong>Awards & Recognition</strong>
       </h5>
       <ul>
-        <li>Meritorious reward for completing .NET training in Accenture as a top scorer.</li>
+        <li>Meritorious reward for completing training in Accenture as a top scorer.</li>
         <li>
         Sparkling star of the month award, from Accenture.
         </li>
