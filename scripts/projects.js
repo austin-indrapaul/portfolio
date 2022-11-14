@@ -14,7 +14,7 @@ function Projects() {
                             This project demonstrate the CRUD operations through a Java REST application. This application is built using following technologies spring framework, H2 Database & Spring Data JPA with Hibernate.
                         </p>
                         <div className="row  justify-content-center">
-                            <button type="button" className="col-12 col-md-5 btn btn-primary m-2" data-bs-toggle="modal" data-bs-target="#myModal">
+                            <button type="button" className="col-12 col-md-5 btn btn-primary m-2" data-bs-toggle="modal" data-bs-target="#myModal-1">
                                 Watch the project demo
                             </button>
                             <a type="button" href="https://github.com/austin-indrapaul/springboot_API_project_1" target="_blank" className="col-12 col-md-5 btn btn-warning m-2" >
@@ -22,7 +22,7 @@ function Projects() {
                             </a>
                         </div>
 
-                        <div className="modal" id="myModal">
+                        <div className="modal" id="myModal-1">
                             <div className="modal-dialog modal-lg">
                                 <div className="modal-content">
 
@@ -31,8 +31,8 @@ function Projects() {
                                     <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
                                 </div>
 
-                                <div className="modal-body">                                
-                                    <video class="od-VideoCanvas-video" src="https://public.bn.files.1drv.com/y4m4k4fy4lHG85jr9K89lhljv2l6fDgL2DqA5Rf7J6NCn43Eh97QF-Y5ywLsE8PI6_oePXWbA34tunsLPx7JEft0ciAOFHirOSYxGmWtve2uq-mn1Gil7i6TZtJYhwNMljDODpCAV_-kOIGmUR7_tDu0G0hBqNL8TADyMpBnG-akD98uTSQtEJ5w7KtZBl-xwQ9JTlCt48E7Aow7WovpI9-AX78khjovtHcSxZvHhCg70A?" width="100%" controls></video>                                  
+                                <div className="modal-body">   
+                                    <iframe src="https://drive.google.com/file/d/1tnmvSVVsCz4DrYpdSH64PeeVT1tu9jQo/preview" style={{marginLeft: '5%'}} width="90%" height="380vh"  allow="fullscreen;"></iframe>
                                 </div>
 
                                 <div className="modal-footer">
@@ -46,6 +46,47 @@ function Projects() {
                             </div>
                         </div>
                 </div>
+
+                {/* <br/>
+                
+                <div className="proj">
+                        <h4>Spring security with JWT</h4>
+                        <p>
+                            This project demonstrate the Spring security with JWT through a Java REST application. This application is built using following technologies spring framework, spring security, JWT, H2 Database & Spring Data JPA with Hibernate.
+                        </p>
+                        <div className="row  justify-content-center">
+                            <button type="button" className="col-12 col-md-5 btn btn-primary m-2" data-bs-toggle="modal" data-bs-target="#myModal-2">
+                                Watch the project demo
+                            </button>
+                            <a type="button" href="https://github.com/austin-indrapaul/springboot_API_project_2" target="_blank" className="col-12 col-md-5 btn btn-warning m-2" >
+                                Download the source code
+                            </a>
+                        </div>
+
+                        <div className="modal" id="myModal-2">
+                            <div className="modal-dialog modal-lg">
+                                <div className="modal-content">
+
+                                <div className="modal-header">
+                                    <h4 class="modal-title">🎞️ Watch the demo - Spring security with JWT</h4>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                                </div>
+
+                                <div className="modal-body">                                
+                                    <iframe src="https://drive.google.com/file/d/1tnmvSVVsCz4DrYpdSH64PeeVT1tu9jQo/preview" style={{marginLeft: '5%'}} width="90%" height="380vh"  allow="fullscreen;"></iframe>
+                                </div>
+
+                                <div className="modal-footer">
+                                    <a type="button" href="https://github.com/austin-indrapaul/springboot_API_project_2" target="_blank" className="col-12 col-md-5 btn btn-warning" >
+                                        Download the source code
+                                    </a>
+                                    <button type="button" className="col-12 col-md-5 btn btn-danger" data-bs-dismiss="modal">Close</button>
+                                </div>
+
+                                </div>
+                            </div>
+                        </div>
+                </div> */}
             </div>
         </div>
         <br/>
