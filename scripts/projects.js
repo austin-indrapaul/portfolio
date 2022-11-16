@@ -9,7 +9,7 @@ function Projects() {
            <br/>
             <div className="m-3 mx-4">
                     <div className="proj">
-                        <h4>Rest API with Springboot</h4>
+                        <h4>Rest API with Spring boot</h4>
                         <p>
                             This project demonstrate the CRUD operations through a Java REST application. This application is built using following technologies spring framework, H2 Database & Spring Data JPA with Hibernate.
                         </p>
@@ -51,7 +51,7 @@ function Projects() {
                         </div>
                 </div>
 
-                {/* <br/>
+                <br/>
                 
                 <div className="proj">
                         <h4>Spring security with JWT</h4>
@@ -76,8 +76,10 @@ function Projects() {
                                     <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
                                 </div>
 
-                                <div className="modal-body">                                
-                                    <iframe src="https://drive.google.com/file/d/1tnmvSVVsCz4DrYpdSH64PeeVT1tu9jQo/preview" style={{marginLeft: '5%'}} width="90%" height="380vh"  allow="fullscreen;"></iframe>
+                                <div className="modal-body">
+                                    <video width="100%" controls>
+                                        <source src="https://onedrive.live.com/download?cid=00D953359824EC4D&resid=D953359824EC4D%21685&authkey=AKLJhapTxGrG2k8"  type="video/mp4"/>
+                                    </video>
                                 </div>
 
                                 <div className="modal-footer">
@@ -90,7 +92,7 @@ function Projects() {
                                 </div>
                             </div>
                         </div>
-                </div> */}
+                </div>
             </div>
         </div>
         <br/>
