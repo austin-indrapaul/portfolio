@@ -32,7 +32,11 @@ function Projects() {
                                 </div>
 
                                 <div className="modal-body">   
-                                    <iframe src="https://drive.google.com/file/d/1tnmvSVVsCz4DrYpdSH64PeeVT1tu9jQo/preview" style={{marginLeft: '5%'}} width="90%" height="380vh"  allow="fullscreen;"></iframe>
+                                    {/* <iframe src="https://onedrive.live.com/embed?cid=00D953359824EC4D&resid=D953359824EC4D%21684&authkey=AA8a2_UyYMOhE-I" width="320" height="200" frameborder="0" scrolling="no" allowfullscreen></iframe> */}
+                                    <video width="100%" controls>
+                                        <source src="https://onedrive.live.com/download?cid=00D953359824EC4D&resid=D953359824EC4D%21684&authkey=AA8a2_UyYMOhE-I"  type="video/mp4"/>
+                                    </video>
+                                    {/* <iframe src="https://drive.google.com/file/d/1tnmvSVVsCz4DrYpdSH64PeeVT1tu9jQo/preview" style={{marginLeft: '5%'}} width="90%" height="380vh"  allow="fullscreen;"></iframe> */}
                                 </div>
 
                                 <div className="modal-footer">
