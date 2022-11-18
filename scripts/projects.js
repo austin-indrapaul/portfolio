@@ -11,7 +11,7 @@ function Projects() {
                     <div className="proj">
                         <h4>Rest API with Spring boot</h4>
                         <p>
-                            This project demonstrate the CRUD operations through a Java REST application. This application is built using following technologies spring framework, H2 Database & Spring Data JPA with Hibernate.
+                            This project demonstrates the CRUD operations through a Java REST application. This application is built using following technologies spring framework, H2 Database & Spring Data JPA with Hibernate.
                         </p>
                         <div className="row  justify-content-center">
                             <button type="button" className="col-12 col-md-5 btn btn-primary m-2" data-bs-toggle="modal" data-bs-target="#myModal-1">
@@ -56,7 +56,7 @@ function Projects() {
                 <div className="proj">
                         <h4>Spring security with JWT</h4>
                         <p>
-                            This project demonstrate the Spring security with JWT through a Java REST application. This application is built using following technologies spring framework, spring security, JWT, H2 Database & Spring Data JPA with Hibernate.
+                            This project demonstrates the Spring security with JWT through a Java REST application. This application is built using following technologies spring framework, spring security, JWT, H2 Database & Spring Data JPA with Hibernate.
                         </p>
                         <div className="row  justify-content-center">
                             <button type="button" className="col-12 col-md-5 btn btn-primary m-2" data-bs-toggle="modal" data-bs-target="#myModal-2">
