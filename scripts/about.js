@@ -1,7 +1,8 @@
 let education_details = [
   {"degree":"B.E (MECHANICAL) - Anna University","school":"Panimalar Engineering College - Chennai.","class":"Distinction", "percentage":85.9},
   {"degree":"H.S.C - Class 12 (TN Board)","school":"Hussain Memorial Matric. Hr. Sec. School - Chennai.","class":"Distinction", "percentage":90.5},
-  {"degree":"S.S.L.C - Class 10 (TN Board)","school":"Hussain Memorial Matric. Hr. Sec. School - Chennai.","class":"Distinction", "percentage":98},
+  {"degree":"S.S.L.C - Class 10 (TN Board)","school":"Hussain Memorial Matric. Hr. Sec. School - Chennai.","class":"Distinction", "percentage":"98.0"},
+
 ]
 
 var experience = calculate_experience();
@@ -80,7 +81,7 @@ function About() {
         <strong>Trainings and Certificatations</strong>
       </h5>
       <ul>
-        <li>Completed GFT Training on .NET in Accenture with merit</li>
+        <li>Completed GFT Training {/*on .NET*/} in Accenture with merit</li>
         <li>
         Full Stack Developer and Web accessibility expert certification from Accenture.
         </li>
