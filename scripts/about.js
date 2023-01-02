@@ -42,7 +42,7 @@ function About() {
     <div>
       <h2>About</h2>
       <hr />
-      I'm trained in various technologies which includes Java, Front end development , and .NET. Looking forward to work as a Full Stack Developer and provide 360° value to my organisation.
+      I'm trained in various technologies which includes Java, Front end development and spring frameworks. Looking forward to work as a Full Stack Developer and provide 360° value to my organisation.
       <br />
       <br />
       <div id="summary">
@@ -54,8 +54,8 @@ function About() {
       <ul>
         <li>I have overall years experience of {experience} years.</li>
         <li>
-          Working as an Associate Software Developer / ASE in Accenture from
-          December 2020 to till date.
+          Worked as a Associate Software Developer in Accenture from
+          December 2020 to December 2022.
         </li>
         <li>
           Trained in various technologies which includes Java, Front end development, and .NET.
