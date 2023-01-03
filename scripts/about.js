@@ -58,7 +58,7 @@ function About() {
           December 2020 to December 2022.
         </li>
         <li>
-          Trained in various technologies which includes Java, Front end development, and .NET.
+          Trained in various technologies which includes Java, Front end development, and other Java frameworks.
         </li>
         <li>
           Have good experience in delivering projects in Agile Methodology.
