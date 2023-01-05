@@ -30,7 +30,7 @@ function Experience() {
       <h2>Experience</h2>
       <hr />
       <p>
-        I have overall experience of {experience} years. I worked with different industry clients, from which i got some knowledge about their industry. I used some skills that i learnt earlier in these projects. And I also learnt new skills as a project requirement. 
+        I have overall experience of {experience} years. I worked with different industry clients, from which I got some knowledge about their industry. I used some skills that I learnt earlier in these projects. And I also learnt new skills as a project requirement. 
       </p>
       <p>
         <br />
