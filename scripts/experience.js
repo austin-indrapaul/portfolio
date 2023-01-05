@@ -11,7 +11,7 @@ let experience_data = [
   },
   {
     name: "Oil & gas client, Accenture",
-    role: "Front End Developer (Sitecore) / Content Author / QA",
+    role: "Front End Developer (Sitecore)",
     duties: [
       "Understanding the requirements from the story card and doing Asset audit, design planning, design implementation, Test case preparation and Test Execution.",
       "Building the components for the websites.",
