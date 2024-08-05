@@ -46,8 +46,6 @@ function About() {
       <br />
       <br />
       <div id="summary">
-
-
       <h5>
         <strong>Professional summary</strong>
       </h5>
@@ -55,15 +53,16 @@ function About() {
         <li>I have overall years experience of {experience} years.</li>
         <li>
           Worked as a Associate Software Developer in Accenture from
-          December 2020 to December 2022.
+          December 2020 to December 2022, and Systems Engineer in TCS from January 2023 to till date.
         </li>
         <li>
-          Trained in various technologies which includes Java, Front end development, and other Java frameworks.
+          Worked in various technologies which includes Java, Front end development, and other Java frameworks.
         </li>
         <li>
-          Have good experience in delivering projects in Agile Methodology.
+          Have good experience in delivering projects in Waterfall and also in Agile Methodology.
         </li>
-        <li>Have good knowledge in Software Development Life Cycle.</li>
+        <li>Contributed in technical documentation, application deployment and monitoring 
+          and have good knowledge in Software Development Life Cycle</li>
       </ul>
       <br />
       </div>
