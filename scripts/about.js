@@ -42,7 +42,7 @@ function About() {
     <div>
       <h2>About</h2>
       <hr />
-      I'm trained in various technologies which includes Java, Front end development and spring frameworks. Looking forward to work as a Full Stack Developer and provide 360° value to my organisation.
+      I have working experience in various technologies which includes Java, Front end development and spring frameworks. Looking forward to work as a Full Stack Developer and provide 360° value to my organisation.
       <br />
       <br />
       <div id="summary">
